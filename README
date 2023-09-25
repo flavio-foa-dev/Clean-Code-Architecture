@@ -1,0 +1,27 @@
+# Clean Code
+  - Grady Booch (criador da UML) codigo simples e direto
+  - Bjarne Stroustrup (Criador do c++) logica ta tao clara que e dificil para bugs se esconderem
+
+Clean Architecture Code Smells Refactoring Design Arquiterura
+
+### Code Smells:
+1. nomes ruins
+[ e um nome de  variavel, metodo, funcao, classe, arquivo, que nao e suficiente claro]
+tecnica de refatoracao
+- renomear variavel
+- renomear metodo
+- renomear classe
+- renomear arquivo
+
+…or create a new repository on the command line
+echo "# Clean-Code-Architecture" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:flavio-foa-dev/Clean-Code-Architecture.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin git@github.com:flavio-foa-dev/Clean-Code-Architecture.git
+git branch -M main
+git push -u origin main
